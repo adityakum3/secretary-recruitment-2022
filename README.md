@@ -20,6 +20,6 @@ Game Development Society\
 Science and Technology Council,\
 Students' Gymkhana, IIT Kanpur
 
-Join our Discord at: https://discord.gg/pThvGHs\
-Facebook Page: https://www.facebook.com/gamedev.iitk\
+Join our Discord at: https://discord.gg/pThvGHs \
+Facebook Page: https://www.facebook.com/gamedev.iitk \
 Website: https://gds.sntiitk.in/
