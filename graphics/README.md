@@ -26,6 +26,8 @@ You are to code up this algorithm in your favourite programming language ( if yo
 
 Find attached a `data.csv` file containing a set of points in cartesian coordinates. Use them to plot first a polygon by simply connecting the points in the given order. Then iteratively apply the Chaikin’s algorithm to generate successively smoother curves.
 
+You can use Libraries like gnuplot, matplotlib, plotly or any other plotting library to plot the points and to export the images.
+
 **_Submission_** format would be your code and 10 png files, numbered 1-10, showing 10 iterations on the given set of points. Ideally what I am looking for is something like this, except for the submission to be png. For more details about the algorithm, you can refer to the following:
 
 - CHAIKIN, G. An algorithm for high-speed curve generation. Computer Graphics and Image Processing, 3 (1974), 346–349.
