@@ -12,7 +12,7 @@ For example: `programming_200456`.
 
 You need to submit your tasks via the form [Here](https://forms.gle/YZ4FeDCyuFCW63RN9).
 
-Submission Deadline : 10:00 am , 10th August, 2022
+Submission Deadline : 08:00 am , 07th August, 2022
 
 ### Best of luck and Surprise us! 😎
 
