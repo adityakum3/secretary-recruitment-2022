@@ -22,7 +22,7 @@ Subsequently generating a seemingly smooth curve,
 
 ![Image 4](./media/gra4.png)
 
-You are to code up this algorithm in your favourite programming language ( if you thought of C then I am very concerned :) ).
+You are to code up this algorithm in your favourite programming language ( even if you do not have a favourite yet, C should work just fine :) ).
 
 Find attached a `data.csv` file containing a set of points in cartesian coordinates. Use them to plot first a polygon by simply connecting the points in the given order. Then iteratively apply the Chaikin’s algorithm to generate successively smoother curves.
 
@@ -35,6 +35,8 @@ You can use Libraries like gnuplot, matplotlib, plotly or any other plotting lib
 - RIESENFELD, R. On Chaikin’s algorithm. IEEE Computer Graphics and Applications 4, 3 (1975), 304–310.
 
 PS : Brownie points for coding this up in JavaScript, making it interactive with sliders for number of iterations and an option for showing/hiding the original polygon. (Possibly movable points?)
+
+PPS : Not sure how to plot things using code? Try looking up libraries that do this work for you. [pbPlots](https://github.com/InductiveComputerScience/pbPlots) for C/C++ ? Even graphics.h header file should do the trick. [matplotlib](https://matplotlib.org/stable/index.html) for python? [swing](https://www.codespeedy.com/plot-graph-in-java/) package in Java?
 
 ## Part II
 
